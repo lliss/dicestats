@@ -7,5 +7,7 @@ as a single random value between 2 and 12.
 
 ### Build and Run
 
-`javac dicestats/DiceStats.java`
-`java dicestats.DiceStats`
+```bash
+javac dicestats/DiceStats.java
+java dicestats.DiceStats
+```
